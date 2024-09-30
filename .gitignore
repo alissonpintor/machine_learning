@@ -9,6 +9,7 @@ __pycache__/
 # Arquivos das aulas
 materiais/
 dataset/
+mlrose/
 
 # Distribution / packaging
 .Python
