@@ -15,6 +15,10 @@ matplotlib = "^3.9.2"
 seaborn = "^0.13.2"
 scikit-fuzzy = "^0.5.0"
 networkx = "^3.3"
+cx-oracle = "^8.3.0"
+sqlalchemy = "^2.0.35"
+python-dotenv = "^1.0.1"
+ipykernel = "^6.29.5"
 
 
 [tool.poetry.group.dev.dependencies]
